@@ -1,0 +1,24 @@
+# Datasets
+Offroad_Segmentation_Training_Dataset/
+Offroad_Segmentation_testImages/
+project_data/
+predictions/
+
+# Model files
+*.pth
+
+# Virtual environments
+env/
+venv/
+edu_env/
+
+# Cache
+__pycache__/
+.cache/
+
+# Zip files
+*.zip
+
+# OS / Editor
+.vscode/
+.DS_Store
